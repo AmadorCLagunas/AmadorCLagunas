@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amadors
 - 👀 I’m interested in Biomedical Engineering
 - 🌱 I’m currently learning Neural Engineering
-- 💞️ I’m looking to collaborate on communitry education
+- 💞️ I’m looking to collaborate on community education
 - 📫 Reach me on twitter @AmadorCLagunas
 
 <!---
